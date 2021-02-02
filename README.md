@@ -14,9 +14,9 @@
 |Minion|1|scene-stealer|
 
 # Ordered List
- a sai
- b ambika
- c sowmya
+ a sowmya
+ b nageswari
+ c sai
  d lohitha
  e nageswari
 
