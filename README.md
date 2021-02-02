@@ -14,15 +14,15 @@
 |Minion|1|scene-stealer|
 
 # Ordered List
- a Ganga
+ a sai
  b ambika
- c suma
- d suneetha
+ c sowmya
+ d lohitha
  e nageswari
 
 # Unordered list
-- Ganga
-- suma
-- suneetha
-- ambika
+- sowmya
+- nageswari
+- sai
+- lohitha
 - nageswari
